@@ -1,0 +1,8 @@
+.Profiles-container {
+  min-height: 80vh;
+  padding-top: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}

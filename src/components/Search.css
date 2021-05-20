@@ -1,0 +1,8 @@
+#search:focus {
+  outline: none;
+}
+
+#search {
+  border-radius: 5px;
+  font-size: 30px;
+}

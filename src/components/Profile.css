@@ -1,0 +1,42 @@
+.profile {
+  background-color: white;
+  min-height: 200px;
+  min-width: 200px;
+  border-radius: 5px;
+  color: black;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+  margin: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+
+  transition-property: font-size;
+  transition-duration: 0.2s;
+  transition-delay: 0.05s;
+}
+
+.profile:hover {
+  color: gold;
+  border-color: rgb(38, 38, 252);
+  font-size: 20px;
+}
+
+img {
+  object-fit: contain;
+  /* border: 1px solid black; */
+  margin: 0px;
+}
+
+h2 {
+  /* border: 1px solid black; */
+  margin: 0px;
+}
+
+h3 {
+  /* border: 1px solid black; */
+  margin: 0px;
+}
