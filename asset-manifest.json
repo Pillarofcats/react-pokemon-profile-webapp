@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/react-pokemon-profile-webapp/static/css/main.352bab79.chunk.css",
+    "main.js": "/react-pokemon-profile-webapp/static/js/main.1efa2c1d.chunk.js",
+    "main.js.map": "/react-pokemon-profile-webapp/static/js/main.1efa2c1d.chunk.js.map",
+    "runtime-main.js": "/react-pokemon-profile-webapp/static/js/runtime-main.ebf8ce8c.js",
+    "runtime-main.js.map": "/react-pokemon-profile-webapp/static/js/runtime-main.ebf8ce8c.js.map",
+    "static/js/2.b4ed4825.chunk.js": "/react-pokemon-profile-webapp/static/js/2.b4ed4825.chunk.js",
+    "static/js/2.b4ed4825.chunk.js.map": "/react-pokemon-profile-webapp/static/js/2.b4ed4825.chunk.js.map",
+    "static/js/3.42d153c3.chunk.js": "/react-pokemon-profile-webapp/static/js/3.42d153c3.chunk.js",
+    "static/js/3.42d153c3.chunk.js.map": "/react-pokemon-profile-webapp/static/js/3.42d153c3.chunk.js.map",
+    "index.html": "/react-pokemon-profile-webapp/index.html",
+    "static/css/main.352bab79.chunk.css.map": "/react-pokemon-profile-webapp/static/css/main.352bab79.chunk.css.map",
+    "static/js/2.b4ed4825.chunk.js.LICENSE.txt": "/react-pokemon-profile-webapp/static/js/2.b4ed4825.chunk.js.LICENSE.txt",
+    "static/media/beedrill.jpg": "/react-pokemon-profile-webapp/static/media/beedrill.c6237dd1.jpg",
+    "static/media/blastoise.jpg": "/react-pokemon-profile-webapp/static/media/blastoise.29cf6dd1.jpg",
+    "static/media/bulbasaur.jpg": "/react-pokemon-profile-webapp/static/media/bulbasaur.2f535837.jpg",
+    "static/media/butterfree.jpg": "/react-pokemon-profile-webapp/static/media/butterfree.b49d6cb9.jpg",
+    "static/media/caterpie.jpg": "/react-pokemon-profile-webapp/static/media/caterpie.cfafeea2.jpg",
+    "static/media/charizard.jpg": "/react-pokemon-profile-webapp/static/media/charizard.7afa7f1c.jpg",
+    "static/media/charmander.jpg": "/react-pokemon-profile-webapp/static/media/charmander.2c48f140.jpg",
+    "static/media/charmeleon.jpg": "/react-pokemon-profile-webapp/static/media/charmeleon.dc471503.jpg",
+    "static/media/ivysaur.jpg": "/react-pokemon-profile-webapp/static/media/ivysaur.7f56f066.jpg",
+    "static/media/kakuna.jpg": "/react-pokemon-profile-webapp/static/media/kakuna.710289a4.jpg",
+    "static/media/metapod.jpg": "/react-pokemon-profile-webapp/static/media/metapod.19363ba7.jpg",
+    "static/media/pidgeot.jpg": "/react-pokemon-profile-webapp/static/media/pidgeot.df162f5a.jpg",
+    "static/media/pidgeotto.jpg": "/react-pokemon-profile-webapp/static/media/pidgeotto.aac2e1ca.jpg",
+    "static/media/pidgey.jpg": "/react-pokemon-profile-webapp/static/media/pidgey.78c46c5e.jpg",
+    "static/media/raticate.jpg": "/react-pokemon-profile-webapp/static/media/raticate.71debd99.jpg",
+    "static/media/rattata.jpg": "/react-pokemon-profile-webapp/static/media/rattata.9aafdf0f.jpg",
+    "static/media/squirtle.jpg": "/react-pokemon-profile-webapp/static/media/squirtle.2a3cb878.jpg",
+    "static/media/venusaur.jpg": "/react-pokemon-profile-webapp/static/media/venusaur.28b856cd.jpg",
+    "static/media/wartortle.jpg": "/react-pokemon-profile-webapp/static/media/wartortle.9d274e66.jpg",
+    "static/media/weedle.jpg": "/react-pokemon-profile-webapp/static/media/weedle.d47f6562.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebf8ce8c.js",
+    "static/js/2.b4ed4825.chunk.js",
+    "static/css/main.352bab79.chunk.css",
+    "static/js/main.1efa2c1d.chunk.js"
+  ]
+}
