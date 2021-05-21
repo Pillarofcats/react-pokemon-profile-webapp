@@ -2,7 +2,7 @@
   "name": "react_pokemon_profile_webapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Pillarofcats.github.io/react-pokemon-profile-webapp",
+  "homepage": "https://pillarofcats.github.io/react-pokemon-profile-webapp/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
